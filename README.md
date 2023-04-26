@@ -1,3 +1,5 @@
-# javascriptoppgaver
+# javascriptOppgaver
 
-Oppgaver til bruk i javascriptundervisninga på Porsgrunn vg skole.
+Oppgaver til bruk i javascriptundervisninga på Porsgrunn VGS Skole.
+
+Informasjonsteknologi og medieprosuksjon
