@@ -4,33 +4,29 @@ Tabellen fra Statistisk sentralbyrå nedenfor viser antall levendefødte barn (g
  
 Årstall  Gutter  Jenter
 
-2011     31 006  29 214
+2011  |   31 006 | 29 214
 
-2012     30 933  29 322
+2012  |   30 933 | 29 322
 
-2013     30 138  28 857
+2013  |   30 138 | 28 857
 
-2014     30 370  28 714
+2014  |   30 370 | 28 714
 
-2015     30 369  28 689
+2015  |   30 369 | 28 689
 
-2016     30 386  28 504
+2016  |   30 386 | 28 504
 
-2017     29 173  27 460
+2017  |   29 173 | 27 460
 
-2018
-28 430
-26 690
-2019
-28 042
-26 453
-2020
-27 063
-25 916
+2018  |   28 430 | 26 690
+
+2019  |   28 042 | 26 453
+
+2020  |  27 063  | 25 916
 
  
  
-Oppgave
+''Oppgave
 
 a        Lag en nettside som viser data fra perioden 2011–2020 i en tabell. Tabellen skal også inneholde en kolonne som viser totalt antall fødsler, altså summen av gutter og jenter, for hvert år.
 
