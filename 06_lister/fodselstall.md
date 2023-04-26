@@ -39,6 +39,7 @@ Jenter
  
  
 Oppgave
+
 a        Lag en nettside som viser data fra perioden 2011–2020 i en tabell. Tabellen skal også inneholde en kolonne som viser totalt antall fødsler, altså summen av gutter og jenter, for hvert år.
 
 b        Nettsiden skal vise en tekst som sier hvilket år som hadde færrest fødsler og hvilket år som hadde flest fødsler. Du skal også skrive ut det totale fødselstallet over hele perioden.
