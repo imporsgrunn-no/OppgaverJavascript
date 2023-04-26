@@ -2,23 +2,12 @@
 
 Tabellen fra Statistisk sentralbyrå nedenfor viser antall levendefødte barn (gutter og jenter) mellom 2011 og 2020.
  
-Årstall
-Gutter
-Jenter
-2011
-31 006
-29 214
-2012
-30 933
-29 322
-2013
-30 138
-28 857
-2014
-30 370
-28 714
-2015
-30 369
+Årstall  Gutter  Jenter
+2011     31 006  29 214
+2012     30 933  29 322
+2013     30 138  28 857
+2014     30 370  28 714
+2015     30 369
 28 689
 2016
 30 386
