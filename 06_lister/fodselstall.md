@@ -40,5 +40,7 @@ Jenter
  
 Oppgave
 a        Lag en nettside som viser data fra perioden 2011–2020 i en tabell. Tabellen skal også inneholde en kolonne som viser totalt antall fødsler, altså summen av gutter og jenter, for hvert år.
+
 b        Nettsiden skal vise en tekst som sier hvilket år som hadde færrest fødsler og hvilket år som hadde flest fødsler. Du skal også skrive ut det totale fødselstallet over hele perioden.
+
 c         Brukeren skal kunne velge et utvalg som inneholder flere år. Applikasjonen skal skrive ut det totale antallet barn født i de valgte årene. Det vil si at hvis en bruker velger 2010, 2012 og 2013, skal summen av fødslene i de tre årene skrives ut. Brukeren skal altså kunne velge alt fra ett år til alle ti årene.
